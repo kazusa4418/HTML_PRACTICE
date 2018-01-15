@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.table-wrapper {
+    overflow-x: scroll;
+}
+table {
+    border-collapse: collapse;
+}
+.price {
+    width: 1000;
+}
+.price caption {
+    text-align: left;
+}
+.price th {
+    white-space: nowrap;
+}
+.price td, th {
+    border: 1px solid #8fbac8;
+    padding: 8px;
+}

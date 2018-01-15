@@ -1,0 +1,6 @@
+@charset "UTF-8";
+.required {
+    padding: 0.5em;
+    font-size: 0.75em;
+    color: #ff0000;
+}

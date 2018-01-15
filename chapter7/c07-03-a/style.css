@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.price tr:nth-child(odd) {
+    background: #e3ecf5;
+}
+table {
+    border-collapse: collapse;
+}
+caption {
+    border: 1px solid #cccccc;
+    border-bottom: none;
+    color: #e3ecf5;
+}
+th, td {
+    border: 1px solid #cccccc;
+    padding: 8px;
+}

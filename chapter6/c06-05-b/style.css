@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+}
+.wrapper {
+    overflow: hidden;
+}
+.item {
+    float: left;
+    margin: 8px 0 8px 8px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: 300px;
+    background: url(../../images/bg1204.png) #fafafa;
+}
+.item h3 {
+    font-size: 16px;
+    margin: 0.5em 0 0.5em 0;
+}
+.item p {
+    font-size: 14px;
+    margin: 0;
+}
